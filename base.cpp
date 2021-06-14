@@ -89,7 +89,6 @@ void initiate()
     int i;
     cout << "====================================================" << endl;
     cout << "               IoT Device Controller" << endl;
-    cout << "                  by Ayush Panwar" << endl;
     cout << "====================================================" << endl;
     do
     {
